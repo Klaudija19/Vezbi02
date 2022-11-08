@@ -1,7 +1,6 @@
 package zadaca7;
 
 public class Triagolnik {
-
 	int a;
 	int b;
 	double c;
